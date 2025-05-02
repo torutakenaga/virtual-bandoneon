@@ -54,5 +54,4 @@ python3 bandoneon.py
 ---
 
 Created by [Toru Takenaga](https://github.com/torutakenaga)
-
 Enjoy the sound of Bandoneon! 🎶
